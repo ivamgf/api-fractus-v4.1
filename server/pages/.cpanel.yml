@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/orkney10/public_html/api-fractus.orkneytech.com.br/
+    - /bin/cp -R images $DEPLOYPATH
