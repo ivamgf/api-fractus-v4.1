@@ -1,0 +1,22 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/addClass": "pages/api/addClass.js",
+  "/api/classes/[id]": "pages/api/classes/[id].js",
+  "/api/classes": "pages/api/classes.js",
+  "/api/delClasses/[id]": "pages/api/delClasses/[id].js",
+  "/api/mailer": "pages/api/mailer.js",
+  "/api/questions": "pages/api/questions.js",
+  "/api/updateClasses/[id]": "pages/api/updateClasses/[id].js",
+  "/api/users/addUsers": "pages/api/users/addUsers.js",
+  "/api/users/delUsers/[id]": "pages/api/users/delUsers/[id].js",
+  "/api/users/updateUser/[id]": "pages/api/users/updateUser/[id].js",
+  "/api/users/users/[id]": "pages/api/users/users/[id].js",
+  "/api/users/users": "pages/api/users/users.js",
+  "/contacts": "pages/contacts.html",
+  "/docs": "pages/docs.html",
+  "/": "pages/index.html",
+  "/metadata": "pages/metadata.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
